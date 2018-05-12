@@ -1,10 +1,16 @@
 _repo: Fifteen-Months-in-Dixie-My-Personal-Experience-in-Rebel-Prisons_50991
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50991-h/images/cover.jpg
 creator:
   author:
     agent_name: Day, William W.
     gutenberg_agent_id: '46187'
     url: http://www.gutenberg.org/2009/agents/46187
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50991#Fifteen-Months-in-Dixie-My-Personal-Experience-in-Rebel-Prisons
 gutenberg_issued: '2016-01-21'
 gutenberg_type: Text
 identifiers:
